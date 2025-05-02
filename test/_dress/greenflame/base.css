@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.-dress_greenflame .b-plain {
+	border:40px solid #35823c;
+
+}
+.-dress_greenflame.b-plain {
+	border:40px solid #35823c;
+
+}
+@media screen and (max-width: 641px) {
+.-dress_greenflame .b-plain {
+		border:25px solid #35823c;
+	
+	}
+	.-dress_greenflame.b-plain {
+		border:25px solid #35823c;
+	
+	}
+	
+}
+	/* created version 8.13*/

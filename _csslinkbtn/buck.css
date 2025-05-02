@@ -1,0 +1,36 @@
+a.buck {
+  display: inline-block !important;
+  background: transparent !important;
+  color: #000000 !important;
+  border: 1px solid transparent !important;
+  border-radius: 2px !important;
+  min-width: 2.4em !important;
+  font-size: 80% !important;
+  line-height: 1.3 !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+  padding: 0.5em !important;
+  transition: all 0.2s !important;
+}
+a.buck:visited {
+  background: transparent !important;
+  color: #000000 !important;
+  border: 1px solid transparent !important;
+  text-decoration: none !important;
+}
+a.buck:active {
+  background: transparent !important;
+  color: #cccccc !important;
+  border: 1px solid transparent !important;
+  text-decoration: none !important;
+}
+a.buck:hover {
+  background: transparent !important;
+  color: #cccccc !important;
+  border: 1px solid transparent !important;
+  text-decoration: none !important;
+  opacity: 1 !important;
+}
+
+

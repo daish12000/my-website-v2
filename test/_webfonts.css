@@ -1,0 +1,12 @@
+@charset "utf-8";
+.c-body,li,dt,dd,th,td { font-family: 'FOT-UD明朝 Pro L'; }
+.c-title { font-family: 'Graduate', cursive; }
+.c-large_headline { font-family: 'FOT-UD明朝 Pro M'; }
+.c-small_headline { font-family: 'FOT-UD明朝 Pro L'; }
+.c-lead { font-family: 'FOT-UD明朝 Pro L'; }
+.c-blockquote { font-family: 'FOT-UD明朝 Pro DB'; }
+.c-enclosure { font-family: 'FOT-UD明朝 Pro L'; }
+.c-note { font-family: 'FOT-筑紫ゴシック Pr5 L'; }
+.c-credit { font-family: 'FOT-筑紫ゴシック Pr5 L'; }
+.c-page_title { font-family: 'Graduate', cursive; }
+.webfont1 { font-family: 'SourceHanSans-Heavy'; }

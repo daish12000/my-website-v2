@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+.-dress_pp009a3 .b-plain {
+	border:40px solid #f9d933;
+
+}
+.-dress_pp009a3.b-plain {
+	border:40px solid #f9d933;
+
+}
+.-dress_pp009a3 .b-both_diff {
+	border:40px solid rgb(249, 217, 51);
+
+}
+.-dress_pp009a3.b-both_diff {
+	border:40px solid rgb(249, 217, 51);
+
+}
+.-dress_pp009a3 .b-headlines {
+	border:40px solid rgb(249, 217, 51);
+
+}
+.-dress_pp009a3.b-headlines {
+	border:40px solid rgb(249, 217, 51);
+
+}
+.-dress_pp009a3 .b-album {
+	border:40px solid rgb(249, 217, 51);
+
+}
+.-dress_pp009a3.b-album {
+	border:40px solid rgb(249, 217, 51);
+
+}
+.-dress_pp009a3 .b-float {
+	border:40px solid rgb(249, 217, 51);
+
+}
+.-dress_pp009a3.b-float {
+	border:40px solid rgb(249, 217, 51);
+
+}
+@media screen and (max-width: 641px) {
+.-dress_pp009a3 .b-plain {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3.b-plain {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3 .b-both_diff {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3.b-both_diff {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3 .b-headlines {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3.b-headlines {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3 .b-album {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3.b-album {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3 .b-float {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	.-dress_pp009a3.b-float {
+		border:25px solid rgb(249, 217, 51);
+	
+	}
+	
+}
+	/* created version 8.13*/
